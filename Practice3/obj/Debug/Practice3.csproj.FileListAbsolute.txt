@@ -1,0 +1,11 @@
+E:\УП ПМ.02\День 3\Practice3\Practice3\bin\Debug\Practice3.exe.config
+E:\УП ПМ.02\День 3\Practice3\Practice3\bin\Debug\Practice3.exe
+E:\УП ПМ.02\День 3\Practice3\Practice3\bin\Debug\Practice3.pdb
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.csproj.AssemblyReference.cache
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.csproj.SuggestedBindingRedirects.cache
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.winForm.resources
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.Properties.Resources.resources
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.csproj.GenerateResource.cache
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.csproj.CoreCompileInputs.cache
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.exe
+E:\УП ПМ.02\День 3\Practice3\Practice3\obj\Debug\Practice3.pdb
